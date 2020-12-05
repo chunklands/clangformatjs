@@ -1,7 +1,9 @@
 {
   "name": "clangformatjs",
+  "private": false,
   "version": "1.0.0",
   "description": "Formats your code with clang-format.",
+  "homepage": "https://github.com/chunklands/clangformatjs",
   "scripts": {
   },
   "bin": {
