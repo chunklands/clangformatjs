@@ -1,0 +1,23 @@
+{
+  "name": "clangformatjs",
+  "version": "1.0.0",
+  "description": "Formats your code with clang-format.",
+  "scripts": {
+  },
+  "bin": {
+    "clangformatjs": "cli.js"
+  },
+  "keywords": [
+    "clang",
+    "clang-format",
+    "cpp",
+    "format"
+  ],
+  "author": "Philipp Renoth <renoth@wildoak.de>",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^4.1.0",
+    "glob": "^7.1.6",
+    "yargs": "^16.1.1"
+  }
+}
